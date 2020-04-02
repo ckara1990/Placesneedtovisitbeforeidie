@@ -1,5 +1,9 @@
 # Placesneedtovisitbeforeidie
 
-Greece
-Austria
-. . . 
+* Greece
+* Austria
+* Copenhagen
+* Sweden
+* Switzerland
+* Bali
+
